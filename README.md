@@ -7,11 +7,13 @@ This project focuses on building the frontend and user interaction flow of a sma
 
 The Smart Parking Android App provides users with a simple, step-by-step interface to:
 
-🔐 Login / Sign Up – Access the system securely through a simple authentication UI
+   🔐 Login / Sign Up – Access the system securely through a simple authentication UI
 
-🅿️ Book Parking Slots – Select and book available slots
+   🅿️ Book Parking Slots – Select and book available slots
 
-💬 Feedback – Submit feedback about the parking experience
+   💬 Feedback – Submit feedback about the parking experience
+
+   
 
 | Component       | Technology Used |
 | --------------- | --------------- |
@@ -24,29 +26,29 @@ The Smart Parking Android App provides users with a simple, step-by-step interfa
 
 ✨ Key Features
 
-🧭 User-friendly interface with smooth navigation between activities
+   🧭 User-friendly interface with smooth navigation between activities
 
-🔐 Login & Signup screens designed with validation-ready layouts
+   🔐 Login & Signup screens designed with validation-ready layouts
 
-🅿️ Slot booking page simulating parking reservation
+   🅿️ Slot booking page simulating parking reservation
 
-💬 Feedback screen for collecting user opinions
+   💬 Feedback screen for collecting user opinions
 
-🎨 Material Design UI following Android standards
+   🎨 Material Design UI following Android standards
 
-⚙️ Project Setup and Installation
+
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/priyanka-190408/smart_parking_androidstudio.git
+   git clone https://github.com/priyanka-190408/smart_parking_androidstudio.git
 
 
 🚧 Future Enhancements
 
-🌐 Integrate with Firebase or REST API backend
+   🌐 Integrate with Firebase or REST API backend
 
-💳 Add payment gateway for slot booking
+   💳 Add payment gateway for slot booking
 
-📍 Include Google Maps API for real-time parking location tracking
+   📍 Include Google Maps API for real-time parking location tracking
 
-🔔 Add notifications for booking reminders
+   🔔 Add notifications for booking reminders
