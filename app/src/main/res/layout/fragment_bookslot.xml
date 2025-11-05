@@ -1,0 +1,15 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:padding="20dp">
+
+    <Button android:id="@+id/slot1" android:text="Slot 1"
+        android:layout_width="150dp" android:layout_height="150dp"/>
+    <Button android:id="@+id/slot2" android:text="Slot 2"
+        android:layout_width="150dp" android:layout_height="150dp"/>
+    <Button android:id="@+id/slot3" android:text="Slot 3"
+        android:layout_width="150dp" android:layout_height="150dp"/>
+    <Button android:id="@+id/slot4" android:text="Slot 4"
+        android:layout_width="150dp" android:layout_height="150dp"/>
+</GridLayout>
